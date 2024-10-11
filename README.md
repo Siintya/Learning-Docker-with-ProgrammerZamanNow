@@ -1,2 +1,2 @@
 # Learning-Docker-with-ProgrammerZamanNow
-Is a repository that offers Docker learning materials and exercises based on the Programmer Zaman Now curriculum.
+<a href="https://youtu.be/3_yxVjV88Zk?si=ZkAYoO23PXot_tlQ">Learning-Docker-with-ProgrammerZamanNow</a> is a repository that offers Docker learning materials and exercises based on the <a href="https://www.programmerzamannow.com/">Programmer Zaman Now curriculum</a>. It aims to help developers understand Docker concepts from basics to advanced levels, featuring step-by-step guides, real-world use cases, and Dockerfile and Docker Compose scripts for practical learning. Perfect for beginners looking to master Docker and apply it to modern development projects.
